@@ -52,7 +52,6 @@ actionable insights into property performance, agent efficiency, client behavior
 ## 🖥️ Dashboard Features
 
 * Multi-page design (at least 2 pages).
-* Interactive slicers for filtering by **date, agent, and location**.
 * User-friendly navigation with buttons and icons.
 * Clean layout with consistent fonts, spacing, and colors.
 * Combination of **cards, charts, and tables** for clear storytelling.
